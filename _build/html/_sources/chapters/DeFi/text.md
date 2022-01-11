@@ -31,6 +31,9 @@ Firstly we will look at how exchanges work in traditional finance. Some popular 
 
 Centralized exchanges allow for the buying and selling of cryptocurrencies via either other cryptocurrencies (ETH, BTC) or they allow you to use fiat currencies (via bank accounts) to buy tokens. Centralized exchanges most times control all aspects of buying or trading tokens from the security, pricing of assets, to the custodial of the tokens. These centralised exchanges (CEX’s) many times are responsible for following regulations which require users to complete Know your Customer (KYC), Anti-Money Laundering (AML) and Counter Terroritsm Financing Checks. According to Gemini as of September 2020, 95% of all digital as CEX’s work on an order book model. An order book is a huge list of prices that buyers and sellers are asking for. 
 
+<img src="images/orderbook.png">
+
+
 However, as a trader you would want to be able to sell your crypto without waiting for the exchange to pair you up with someone. Liquidity is the availability of an asset, and the ease in which one asset can be traded for another. The higher the liquidity the better the prices for the customers. 
 
 **Fundamental Problem**: All centralized exchanges require a third party that is responsible for matching order which can lead to fees, latency problems, and sometimes lack of liquidity. 
